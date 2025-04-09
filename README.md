@@ -30,7 +30,7 @@ PhoneBookProject/
 
 1. **Download or clone the repository**
    ```bash
-   git clone https://github.com/joshi703/PhoneBookProject.git
+   git clone https://github.com/joshi703/Phone-Book-
    ```
 
 2. **Open the app**
